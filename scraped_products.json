@@ -1,0 +1,702 @@
+[
+  {
+    "title":"A Light in the Attic",
+    "price_gbp":51.77,
+    "star_rating":3,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/a-light-in-the-attic_1000\/index.html"
+  },
+  {
+    "title":"Tipping the Velvet",
+    "price_gbp":53.74,
+    "star_rating":1,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/tipping-the-velvet_999\/index.html"
+  },
+  {
+    "title":"Soumission",
+    "price_gbp":50.1,
+    "star_rating":1,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/soumission_998\/index.html"
+  },
+  {
+    "title":"Sharp Objects",
+    "price_gbp":47.82,
+    "star_rating":4,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/sharp-objects_997\/index.html"
+  },
+  {
+    "title":"Sapiens: A Brief History of Humankind",
+    "price_gbp":54.23,
+    "star_rating":5,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/sapiens-a-brief-history-of-humankind_996\/index.html"
+  },
+  {
+    "title":"The Requiem Red",
+    "price_gbp":22.65,
+    "star_rating":1,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/the-requiem-red_995\/index.html"
+  },
+  {
+    "title":"The Dirty Little Secrets of Getting Your Dream Job",
+    "price_gbp":33.34,
+    "star_rating":4,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/the-dirty-little-secrets-of-getting-your-dream-job_994\/index.html"
+  },
+  {
+    "title":"The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",
+    "price_gbp":17.93,
+    "star_rating":3,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993\/index.html"
+  },
+  {
+    "title":"The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics",
+    "price_gbp":22.6,
+    "star_rating":4,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992\/index.html"
+  },
+  {
+    "title":"The Black Maria",
+    "price_gbp":52.15,
+    "star_rating":1,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/the-black-maria_991\/index.html"
+  },
+  {
+    "title":"Starving Hearts (Triangular Trade Trilogy, #1)",
+    "price_gbp":13.99,
+    "star_rating":2,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/starving-hearts-triangular-trade-trilogy-1_990\/index.html"
+  },
+  {
+    "title":"Shakespeare's Sonnets",
+    "price_gbp":20.66,
+    "star_rating":4,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/shakespeares-sonnets_989\/index.html"
+  },
+  {
+    "title":"Set Me Free",
+    "price_gbp":17.46,
+    "star_rating":5,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/set-me-free_988\/index.html"
+  },
+  {
+    "title":"Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)",
+    "price_gbp":52.29,
+    "star_rating":5,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/scott-pilgrims-precious-little-life-scott-pilgrim-1_987\/index.html"
+  },
+  {
+    "title":"Rip it Up and Start Again",
+    "price_gbp":35.02,
+    "star_rating":5,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/rip-it-up-and-start-again_986\/index.html"
+  },
+  {
+    "title":"Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",
+    "price_gbp":57.25,
+    "star_rating":3,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/our-band-could-be-your-life-scenes-from-the-american-indie-underground-1981-1991_985\/index.html"
+  },
+  {
+    "title":"Olio",
+    "price_gbp":23.88,
+    "star_rating":1,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/olio_984\/index.html"
+  },
+  {
+    "title":"Mesaerion: The Best Science Fiction Stories 1800-1849",
+    "price_gbp":37.59,
+    "star_rating":1,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/mesaerion-the-best-science-fiction-stories-1800-1849_983\/index.html"
+  },
+  {
+    "title":"Libertarianism for Beginners",
+    "price_gbp":51.33,
+    "star_rating":2,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/libertarianism-for-beginners_982\/index.html"
+  },
+  {
+    "title":"It's Only the Himalayas",
+    "price_gbp":45.17,
+    "star_rating":2,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/its-only-the-himalayas_981\/index.html"
+  },
+  {
+    "title":"In Her Wake",
+    "price_gbp":12.84,
+    "star_rating":1,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/in-her-wake_980\/index.html"
+  },
+  {
+    "title":"How Music Works",
+    "price_gbp":37.32,
+    "star_rating":2,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/how-music-works_979\/index.html"
+  },
+  {
+    "title":"Foolproof Preserving: A Guide to Small Batch Jams, Jellies, Pickles, Condiments, and More: A Foolproof Guide to Making Small Batch Jams, Jellies, Pickles, Condiments, and More",
+    "price_gbp":30.52,
+    "star_rating":3,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/foolproof-preserving-a-guide-to-small-batch-jams-jellies-pickles-condiments-and-more-a-foolproof-guide-to-making-small-batch-jams-jellies-pickles-condiments-and-more_978\/index.html"
+  },
+  {
+    "title":"Chase Me (Paris Nights #2)",
+    "price_gbp":25.27,
+    "star_rating":5,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/chase-me-paris-nights-2_977\/index.html"
+  },
+  {
+    "title":"Black Dust",
+    "price_gbp":34.53,
+    "star_rating":5,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/black-dust_976\/index.html"
+  },
+  {
+    "title":"Birdsong: A Story in Pictures",
+    "price_gbp":54.64,
+    "star_rating":3,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/birdsong-a-story-in-pictures_975\/index.html"
+  },
+  {
+    "title":"America's Cradle of Quarterbacks: Western Pennsylvania's Football Factory from Johnny Unitas to Joe Montana",
+    "price_gbp":22.5,
+    "star_rating":3,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/americas-cradle-of-quarterbacks-western-pennsylvanias-football-factory-from-johnny-unitas-to-joe-montana_974\/index.html"
+  },
+  {
+    "title":"Aladdin and His Wonderful Lamp",
+    "price_gbp":53.13,
+    "star_rating":3,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/aladdin-and-his-wonderful-lamp_973\/index.html"
+  },
+  {
+    "title":"Worlds Elsewhere: Journeys Around Shakespeare\u00e2\u0080\u0099s Globe",
+    "price_gbp":40.3,
+    "star_rating":5,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/worlds-elsewhere-journeys-around-shakespeares-globe_972\/index.html"
+  },
+  {
+    "title":"Wall and Piece",
+    "price_gbp":44.18,
+    "star_rating":4,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/wall-and-piece_971\/index.html"
+  },
+  {
+    "title":"The Four Agreements: A Practical Guide to Personal Freedom",
+    "price_gbp":17.66,
+    "star_rating":5,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/the-four-agreements-a-practical-guide-to-personal-freedom_970\/index.html"
+  },
+  {
+    "title":"The Five Love Languages: How to Express Heartfelt Commitment to Your Mate",
+    "price_gbp":31.05,
+    "star_rating":3,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/the-five-love-languages-how-to-express-heartfelt-commitment-to-your-mate_969\/index.html"
+  },
+  {
+    "title":"The Elephant Tree",
+    "price_gbp":23.82,
+    "star_rating":5,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/the-elephant-tree_968\/index.html"
+  },
+  {
+    "title":"The Bear and the Piano",
+    "price_gbp":36.89,
+    "star_rating":1,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/the-bear-and-the-piano_967\/index.html"
+  },
+  {
+    "title":"Sophie's World",
+    "price_gbp":15.94,
+    "star_rating":5,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/sophies-world_966\/index.html"
+  },
+  {
+    "title":"Penny Maybe",
+    "price_gbp":33.29,
+    "star_rating":3,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/penny-maybe_965\/index.html"
+  },
+  {
+    "title":"Maude (1883-1993):She Grew Up with the country",
+    "price_gbp":18.02,
+    "star_rating":2,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/maude-1883-1993she-grew-up-with-the-country_964\/index.html"
+  },
+  {
+    "title":"In a Dark, Dark Wood",
+    "price_gbp":19.63,
+    "star_rating":1,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/in-a-dark-dark-wood_963\/index.html"
+  },
+  {
+    "title":"Behind Closed Doors",
+    "price_gbp":52.22,
+    "star_rating":4,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/behind-closed-doors_962\/index.html"
+  },
+  {
+    "title":"You can't bury them all: Poems",
+    "price_gbp":33.63,
+    "star_rating":2,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/you-cant-bury-them-all-poems_961\/index.html"
+  },
+  {
+    "title":"Slow States of Collapse: Poems",
+    "price_gbp":57.31,
+    "star_rating":3,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/slow-states-of-collapse-poems_960\/index.html"
+  },
+  {
+    "title":"Reasons to Stay Alive",
+    "price_gbp":26.41,
+    "star_rating":2,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/reasons-to-stay-alive_959\/index.html"
+  },
+  {
+    "title":"Private Paris (Private #10)",
+    "price_gbp":47.61,
+    "star_rating":5,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/private-paris-private-10_958\/index.html"
+  },
+  {
+    "title":"#HigherSelfie: Wake Up Your Life. Free Your Soul. Find Your Tribe.",
+    "price_gbp":23.11,
+    "star_rating":5,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/higherselfie-wake-up-your-life-free-your-soul-find-your-tribe_957\/index.html"
+  },
+  {
+    "title":"Without Borders (Wanderlove #1)",
+    "price_gbp":45.07,
+    "star_rating":2,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/without-borders-wanderlove-1_956\/index.html"
+  },
+  {
+    "title":"When We Collided",
+    "price_gbp":31.77,
+    "star_rating":1,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/when-we-collided_955\/index.html"
+  },
+  {
+    "title":"We Love You, Charlie Freeman",
+    "price_gbp":50.27,
+    "star_rating":5,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/we-love-you-charlie-freeman_954\/index.html"
+  },
+  {
+    "title":"Untitled Collection: Sabbath Poems 2014",
+    "price_gbp":14.27,
+    "star_rating":4,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/untitled-collection-sabbath-poems-2014_953\/index.html"
+  },
+  {
+    "title":"Unseen City: The Majesty of Pigeons, the Discreet Charm of Snails & Other Wonders of the Urban Wilderness",
+    "price_gbp":44.18,
+    "star_rating":4,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/unseen-city-the-majesty-of-pigeons-the-discreet-charm-of-snails-other-wonders-of-the-urban-wilderness_952\/index.html"
+  },
+  {
+    "title":"Unicorn Tracks",
+    "price_gbp":18.78,
+    "star_rating":3,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/unicorn-tracks_951\/index.html"
+  },
+  {
+    "title":"Unbound: How Eight Technologies Made Us Human, Transformed Society, and Brought Our World to the Brink",
+    "price_gbp":25.52,
+    "star_rating":1,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/unbound-how-eight-technologies-made-us-human-transformed-society-and-brought-our-world-to-the-brink_950\/index.html"
+  },
+  {
+    "title":"Tsubasa: WoRLD CHRoNiCLE 2 (Tsubasa WoRLD CHRoNiCLE #2)",
+    "price_gbp":16.28,
+    "star_rating":1,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/tsubasa-world-chronicle-2-tsubasa-world-chronicle-2_949\/index.html"
+  },
+  {
+    "title":"Throwing Rocks at the Google Bus: How Growth Became the Enemy of Prosperity",
+    "price_gbp":31.12,
+    "star_rating":3,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/throwing-rocks-at-the-google-bus-how-growth-became-the-enemy-of-prosperity_948\/index.html"
+  },
+  {
+    "title":"This One Summer",
+    "price_gbp":19.49,
+    "star_rating":4,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/this-one-summer_947\/index.html"
+  },
+  {
+    "title":"Thirst",
+    "price_gbp":17.27,
+    "star_rating":5,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/thirst_946\/index.html"
+  },
+  {
+    "title":"The Torch Is Passed: A Harding Family Story",
+    "price_gbp":19.09,
+    "star_rating":1,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/the-torch-is-passed-a-harding-family-story_945\/index.html"
+  },
+  {
+    "title":"The Secret of Dreadwillow Carse",
+    "price_gbp":56.13,
+    "star_rating":1,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/the-secret-of-dreadwillow-carse_944\/index.html"
+  },
+  {
+    "title":"The Pioneer Woman Cooks: Dinnertime: Comfort Classics, Freezer Food, 16-Minute Meals, and Other Delicious Ways to Solve Supper!",
+    "price_gbp":56.41,
+    "star_rating":1,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/the-pioneer-woman-cooks-dinnertime-comfort-classics-freezer-food-16-minute-meals-and-other-delicious-ways-to-solve-supper_943\/index.html"
+  },
+  {
+    "title":"The Past Never Ends",
+    "price_gbp":56.5,
+    "star_rating":4,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/the-past-never-ends_942\/index.html"
+  },
+  {
+    "title":"The Natural History of Us (The Fine Art of Pretending #2)",
+    "price_gbp":45.22,
+    "star_rating":3,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/the-natural-history-of-us-the-fine-art-of-pretending-2_941\/index.html"
+  },
+  {
+    "title":"The Nameless City (The Nameless City #1)",
+    "price_gbp":38.16,
+    "star_rating":4,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/the-nameless-city-the-nameless-city-1_940\/index.html"
+  },
+  {
+    "title":"The Murder That Never Was (Forensic Instincts #5)",
+    "price_gbp":54.11,
+    "star_rating":3,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/the-murder-that-never-was-forensic-instincts-5_939\/index.html"
+  },
+  {
+    "title":"The Most Perfect Thing: Inside (and Outside) a Bird's Egg",
+    "price_gbp":42.96,
+    "star_rating":4,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/the-most-perfect-thing-inside-and-outside-a-birds-egg_938\/index.html"
+  },
+  {
+    "title":"The Mindfulness and Acceptance Workbook for Anxiety: A Guide to Breaking Free from Anxiety, Phobias, and Worry Using Acceptance and Commitment Therapy",
+    "price_gbp":23.89,
+    "star_rating":4,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/the-mindfulness-and-acceptance-workbook-for-anxiety-a-guide-to-breaking-free-from-anxiety-phobias-and-worry-using-acceptance-and-commitment-therapy_937\/index.html"
+  },
+  {
+    "title":"The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing",
+    "price_gbp":16.77,
+    "star_rating":3,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/the-life-changing-magic-of-tidying-up-the-japanese-art-of-decluttering-and-organizing_936\/index.html"
+  },
+  {
+    "title":"The Inefficiency Assassin: Time Management Tactics for Working Smarter, Not Longer",
+    "price_gbp":20.59,
+    "star_rating":5,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/the-inefficiency-assassin-time-management-tactics-for-working-smarter-not-longer_935\/index.html"
+  },
+  {
+    "title":"The Gutsy Girl: Escapades for Your Life of Epic Adventure",
+    "price_gbp":37.13,
+    "star_rating":1,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/the-gutsy-girl-escapades-for-your-life-of-epic-adventure_934\/index.html"
+  },
+  {
+    "title":"The Electric Pencil: Drawings from Inside State Hospital No. 3",
+    "price_gbp":56.06,
+    "star_rating":1,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/the-electric-pencil-drawings-from-inside-state-hospital-no-3_933\/index.html"
+  },
+  {
+    "title":"The Death of Humanity: and the Case for Life",
+    "price_gbp":58.11,
+    "star_rating":4,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/the-death-of-humanity-and-the-case-for-life_932\/index.html"
+  },
+  {
+    "title":"The Bulletproof Diet: Lose up to a Pound a Day, Reclaim Energy and Focus, Upgrade Your Life",
+    "price_gbp":49.05,
+    "star_rating":3,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/the-bulletproof-diet-lose-up-to-a-pound-a-day-reclaim-energy-and-focus-upgrade-your-life_931\/index.html"
+  },
+  {
+    "title":"The Art Forger",
+    "price_gbp":40.76,
+    "star_rating":3,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/the-art-forger_930\/index.html"
+  },
+  {
+    "title":"The Age of Genius: The Seventeenth Century and the Birth of the Modern Mind",
+    "price_gbp":19.73,
+    "star_rating":1,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/the-age-of-genius-the-seventeenth-century-and-the-birth-of-the-modern-mind_929\/index.html"
+  },
+  {
+    "title":"The Activist's Tao Te Ching: Ancient Advice for a Modern Revolution",
+    "price_gbp":32.24,
+    "star_rating":5,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/the-activists-tao-te-ching-ancient-advice-for-a-modern-revolution_928\/index.html"
+  },
+  {
+    "title":"Spark Joy: An Illustrated Master Class on the Art of Organizing and Tidying Up",
+    "price_gbp":41.83,
+    "star_rating":4,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/spark-joy-an-illustrated-master-class-on-the-art-of-organizing-and-tidying-up_927\/index.html"
+  },
+  {
+    "title":"Soul Reader",
+    "price_gbp":39.58,
+    "star_rating":2,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/soul-reader_926\/index.html"
+  },
+  {
+    "title":"Security",
+    "price_gbp":39.25,
+    "star_rating":2,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/security_925\/index.html"
+  },
+  {
+    "title":"Saga, Volume 6 (Saga (Collected Editions) #6)",
+    "price_gbp":25.02,
+    "star_rating":3,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/saga-volume-6-saga-collected-editions-6_924\/index.html"
+  },
+  {
+    "title":"Saga, Volume 5 (Saga (Collected Editions) #5)",
+    "price_gbp":51.04,
+    "star_rating":2,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/saga-volume-5-saga-collected-editions-5_923\/index.html"
+  },
+  {
+    "title":"Reskilling America: Learning to Labor in the Twenty-First Century",
+    "price_gbp":19.83,
+    "star_rating":2,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/reskilling-america-learning-to-labor-in-the-twenty-first-century_922\/index.html"
+  },
+  {
+    "title":"Rat Queens, Vol. 3: Demons (Rat Queens (Collected Editions) #11-15)",
+    "price_gbp":50.4,
+    "star_rating":3,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/rat-queens-vol-3-demons-rat-queens-collected-editions-11-15_921\/index.html"
+  },
+  {
+    "title":"Princess Jellyfish 2-in-1 Omnibus, Vol. 01 (Princess Jellyfish 2-in-1 Omnibus #1)",
+    "price_gbp":13.61,
+    "star_rating":5,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/princess-jellyfish-2-in-1-omnibus-vol-01-princess-jellyfish-2-in-1-omnibus-1_920\/index.html"
+  },
+  {
+    "title":"Princess Between Worlds (Wide-Awake Princess #5)",
+    "price_gbp":13.34,
+    "star_rating":5,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/princess-between-worlds-wide-awake-princess-5_919\/index.html"
+  },
+  {
+    "title":"Pop Gun War, Volume 1: Gift",
+    "price_gbp":18.97,
+    "star_rating":1,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/pop-gun-war-volume-1-gift_918\/index.html"
+  },
+  {
+    "title":"Political Suicide: Missteps, Peccadilloes, Bad Calls, Backroom Hijinx, Sordid Pasts, Rotten Breaks, and Just Plain Dumb Mistakes in the Annals of American Politics",
+    "price_gbp":36.28,
+    "star_rating":2,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/political-suicide-missteps-peccadilloes-bad-calls-backroom-hijinx-sordid-pasts-rotten-breaks-and-just-plain-dumb-mistakes-in-the-annals-of-american-politics_917\/index.html"
+  },
+  {
+    "title":"Patience",
+    "price_gbp":10.16,
+    "star_rating":3,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/patience_916\/index.html"
+  },
+  {
+    "title":"Outcast, Vol. 1: A Darkness Surrounds Him (Outcast #1)",
+    "price_gbp":15.44,
+    "star_rating":4,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/outcast-vol-1-a-darkness-surrounds-him-outcast-1_915\/index.html"
+  },
+  {
+    "title":"orange: The Complete Collection 1 (orange: The Complete Collection #1)",
+    "price_gbp":48.41,
+    "star_rating":1,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/orange-the-complete-collection-1-orange-the-complete-collection-1_914\/index.html"
+  },
+  {
+    "title":"Online Marketing for Busy Authors: A Step-By-Step Guide",
+    "price_gbp":46.35,
+    "star_rating":1,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/online-marketing-for-busy-authors-a-step-by-step-guide_913\/index.html"
+  },
+  {
+    "title":"On a Midnight Clear",
+    "price_gbp":14.07,
+    "star_rating":3,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/on-a-midnight-clear_912\/index.html"
+  },
+  {
+    "title":"Obsidian (Lux #1)",
+    "price_gbp":14.86,
+    "star_rating":2,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/obsidian-lux-1_911\/index.html"
+  },
+  {
+    "title":"My Paris Kitchen: Recipes and Stories",
+    "price_gbp":33.37,
+    "star_rating":2,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/my-paris-kitchen-recipes-and-stories_910\/index.html"
+  },
+  {
+    "title":"Masks and Shadows",
+    "price_gbp":56.4,
+    "star_rating":2,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/masks-and-shadows_909\/index.html"
+  },
+  {
+    "title":"Mama Tried: Traditional Italian Cooking for the Screwed, Crude, Vegan, and Tattooed",
+    "price_gbp":14.02,
+    "star_rating":4,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/mama-tried-traditional-italian-cooking-for-the-screwed-crude-vegan-and-tattooed_908\/index.html"
+  },
+  {
+    "title":"Lumberjanes, Vol. 2: Friendship to the Max (Lumberjanes #5-8)",
+    "price_gbp":46.91,
+    "star_rating":2,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/lumberjanes-vol-2-friendship-to-the-max-lumberjanes-5-8_907\/index.html"
+  },
+  {
+    "title":"Lumberjanes, Vol. 1: Beware the Kitten Holy (Lumberjanes #1-4)",
+    "price_gbp":45.61,
+    "star_rating":3,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/lumberjanes-vol-1-beware-the-kitten-holy-lumberjanes-1-4_906\/index.html"
+  },
+  {
+    "title":"Lumberjanes Vol. 3: A Terrible Plan (Lumberjanes #9-12)",
+    "price_gbp":19.92,
+    "star_rating":2,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/lumberjanes-vol-3-a-terrible-plan-lumberjanes-9-12_905\/index.html"
+  },
+  {
+    "title":"Layered: Baking, Building, and Styling Spectacular Cakes",
+    "price_gbp":40.11,
+    "star_rating":1,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/layered-baking-building-and-styling-spectacular-cakes_904\/index.html"
+  },
+  {
+    "title":"Judo: Seven Steps to Black Belt (an Introductory Guide for Beginners)",
+    "price_gbp":53.9,
+    "star_rating":2,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/judo-seven-steps-to-black-belt-an-introductory-guide-for-beginners_903\/index.html"
+  },
+  {
+    "title":"Join",
+    "price_gbp":35.67,
+    "star_rating":5,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/join_902\/index.html"
+  },
+  {
+    "title":"In the Country We Love: My Family Divided",
+    "price_gbp":22.0,
+    "star_rating":4,
+    "in_stock":true,
+    "product_url":"https:\/\/books.toscrape.com\/catalogue\/in-the-country-we-love-my-family-divided_901\/index.html"
+  }
+]
